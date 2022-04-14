@@ -1,0 +1,1 @@
+TESTED WITH ISSUES FOUND - value read from memory is wrong without OTA

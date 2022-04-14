@@ -1,0 +1,6 @@
+Application 2 - SPI and DAC
+1. Initialize DAC and SPI
+2. If write to memory, LED (white) from DAC_CHANNEL_1, GPIO 25 is turned on
+3. Print the value that is written
+4. If read from memory, LED (red) from DAC_CHANNEL_2, GPIO26 is turned on
+5. Print the value that is read 

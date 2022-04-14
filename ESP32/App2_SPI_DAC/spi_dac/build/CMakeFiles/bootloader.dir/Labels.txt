@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/CMakeFiles/bootloader
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/CMakeFiles/bootloader.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/CMakeFiles/bootloader-complete.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/teste_esp/esp-idf/examples/get-started/hd_eeprom/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
