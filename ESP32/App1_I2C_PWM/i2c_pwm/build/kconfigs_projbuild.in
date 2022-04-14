@@ -1,0 +1,6 @@
+source "/home/lucia/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/lucia/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/lucia/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/lucia/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/lucia/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/main/Kconfig.projbuild"

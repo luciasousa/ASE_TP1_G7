@@ -1,0 +1,10 @@
+Application 1 - I2C and PWM
+1. Start with initializing LEDC module:
+    a. Set the timer of LEDC first, this determines the frequency and resolution of PWM.
+    b. Then set the LEDC channel and bind with one of the timers.
+    c. LED is connected to GPIO 5
+2. Setup the temperature sensor.
+3. Read temperature and compare it to the previous temperature value.
+    a. If the temperature has increased then led is off and turned on, fade up
+    b. If the temperature has decreased then led is on and turned off, fade down
+    c. If the temperature doesn't change, led stays turned off

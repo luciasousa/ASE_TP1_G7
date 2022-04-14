@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/CMakeFiles/bootloader
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/CMakeFiles/bootloader.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/CMakeFiles/bootloader-complete.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/lucia/Documents/ASE/esp32/esp32_projects/app1_i2c_pwm/i2c_simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
