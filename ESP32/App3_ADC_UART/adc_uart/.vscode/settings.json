@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM7",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "random": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}

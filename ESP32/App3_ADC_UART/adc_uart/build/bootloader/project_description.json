@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/teste_esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "C:/teste_esp/esp-idf/examples/get-started/uart_async_rxtxtasks/build/bootloader",
+    "config_file":        "C:/teste_esp/esp-idf/examples/get-started/uart_async_rxtxtasks/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/teste_esp/esp-idf/components/efuse/Kconfig;C:/teste_esp/esp-idf/components/esp32/Kconfig;C:/teste_esp/esp-idf/components/esp_common/Kconfig;C:/teste_esp/esp-idf/components/esp_hw_support/Kconfig;C:/teste_esp/esp-idf/components/esp_system/Kconfig;C:/teste_esp/esp-idf/components/freertos/Kconfig;C:/teste_esp/esp-idf/components/hal/Kconfig;C:/teste_esp/esp-idf/components/log/Kconfig;C:/teste_esp/esp-idf/components/newlib/Kconfig;C:/teste_esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/teste_esp/esp-idf/components/bootloader/Kconfig.projbuild;C:/teste_esp/esp-idf/components/esp_rom/Kconfig.projbuild;C:/teste_esp/esp-idf/components/esptool_py/Kconfig.projbuild;C:/teste_esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/teste_esp/esp-idf/components/bootloader", "C:/teste_esp/esp-idf/components/bootloader_support", "C:/teste_esp/esp-idf/components/efuse", "C:/teste_esp/esp-idf/components/esp32", "C:/teste_esp/esp-idf/components/esp_common", "C:/teste_esp/esp-idf/components/esp_hw_support", "C:/teste_esp/esp-idf/components/esp_rom", "C:/teste_esp/esp-idf/components/esp_system", "C:/teste_esp/esp-idf/components/esptool_py", "C:/teste_esp/esp-idf/components/freertos", "C:/teste_esp/esp-idf/components/hal", "C:/teste_esp/esp-idf/components/log", "C:/teste_esp/esp-idf/components/bootloader/subproject/main", "C:/teste_esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "C:/teste_esp/esp-idf/components/newlib", "C:/teste_esp/esp-idf/components/partition_table", "C:/teste_esp/esp-idf/components/soc", "C:/teste_esp/esp-idf/components/spi_flash", "C:/teste_esp/esp-idf/components/xtensa", "" ]
+}

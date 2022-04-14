@@ -1,0 +1,8 @@
+Application 3 - UART and ADC
+With power management
+
+1- Configure UART and ADC
+2- Read ADC value from GPIO 36 
+3- Compare ADC value with previous adc value 
+    a. if ADC value is equal to previous ADC value then enter light sleep mode for 2 seconds
+    b. else write in UART1, read from UART1 to UART2 and print the value
