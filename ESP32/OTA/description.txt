@@ -1,2 +1,3 @@
 OTA 
-page html to upload bin files to ESP32
+Page html to upload bin files to ESP32.
+Be careful with internet credentials that are different from wi-fi to wi-fi.

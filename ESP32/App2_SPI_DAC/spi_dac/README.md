@@ -22,3 +22,5 @@ For different chip and host used, the connections may be different.
 ### Notes
 
 If you meet timeout issues, please check your connections.
+
+Although this example is for another memory, it has been adapted and now works for the 25LC040A EEPROM memory.
