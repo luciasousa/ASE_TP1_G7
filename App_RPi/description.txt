@@ -5,4 +5,6 @@ When button is pressed:
     - Piezo makes 4 beeps
     - Display LCD writes STOP
     
+- Display LCD writes time (hours and minutes) and temperature read from TC74 temperature sensor
+    
 Potentiometer to regulate contrast of Display LCD
