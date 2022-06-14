@@ -1,0 +1,8 @@
+Application to compare CPU and GPU
+Two programs: operation.cu and palindrome.cu
+The program Operation is a program that implements a heavy task.
+The task is the sum of the squares of two arrays, the result is saved in another array.
+This operation is calculatem 10000 times.
+The program Palindrome is a program to calculate if an array of chars is a palindrome.
+Its a simpler task and the CPU here will have a better performance than GPU. In contrast to operation task.
+For the function to run in CUDA kernel it was used 1024 blocks which with 1024 threads.
